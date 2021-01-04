@@ -46,3 +46,6 @@ The analysis of the election show that:
     - Arapahoe turned out 6.7% of the vote and 24,801 votes.
 - The county with the largest turnout was:
     - Denver turned out 82.8% of the vote and 306,055 votes.
+
+## Proposal
+This script can be used for any election. With some modifications, it can audit mayoral or district elections within a city.
